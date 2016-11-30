@@ -1,0 +1,9 @@
+﻿  integer_max_overflow.c
+c:\users\이장훈\documents\visual studio 2015\projects\integer_max_overflow\integer_max_overflow\integer_max_overflow.c(7): warning C4307: '+': 정수 계열 상수 오버플로입니다.
+c:\users\이장훈\documents\visual studio 2015\projects\integer_max_overflow\integer_max_overflow\integer_max_overflow.c(8): warning C4307: '+': 정수 계열 상수 오버플로입니다.
+c:\users\이장훈\documents\visual studio 2015\projects\integer_max_overflow\integer_max_overflow\integer_max_overflow.c(16): warning C4307: '+': 정수 계열 상수 오버플로입니다.
+c:\users\이장훈\documents\visual studio 2015\projects\integer_max_overflow\integer_max_overflow\integer_max_overflow.c(18): warning C4307: '+': 정수 계열 상수 오버플로입니다.
+c:\users\이장훈\documents\visual studio 2015\projects\integer_max_overflow\integer_max_overflow\integer_max_overflow.c(12): warning C4305: '초기화 중': 'int'에서 'unsigned char'(으)로 잘립니다.
+c:\users\이장훈\documents\visual studio 2015\projects\integer_max_overflow\integer_max_overflow\integer_max_overflow.c(14): warning C4305: '초기화 중': 'int'에서 'unsigned short'(으)로 잘립니다.
+  integer_max_overflow.vcxproj -> c:\users\이장훈\documents\visual studio 2015\Projects\integer_max_overflow\Debug\integer_max_overflow.exe
+  integer_max_overflow.vcxproj -> c:\users\이장훈\documents\visual studio 2015\Projects\integer_max_overflow\Debug\integer_max_overflow.pdb (Full PDB)
